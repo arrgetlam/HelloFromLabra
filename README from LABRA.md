@@ -16,4 +16,4 @@ int main(){
  return 0;
 }
 
-[](capture.PNG)
+![](capture.PNG)
